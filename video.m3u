@@ -1,45 +1,17 @@
 #EXTM3U
-#EXTINF:-1,01 - The GitHub Repository
-https://rs2.seedr.cc/ff_get/5504319234/01-The%20GitHub%20Repository.mp4?st=i6K80lVJRw0rHx2idDZD1Q&e=1726160796
-#EXTINF:-1,02 - Installation Instructions
-https://rs2.seedr.cc/ff_get/5504322587/02-Installation%20Instructions.mp4?st=Q8QQOzZyOpd1JNpUa4ilVw&e=1726161459
-#EXTINF:-1,03 - Resolving Our First Issue
-https://rs2.seedr.cc/ff_get/5504322596/03-Resolving%20Our%20First%20Issue.mp4?st=PZm_uQd5Sb0HkBUShULOlg&e=1726161187
-#EXTINF:-1,04 - The Issue and PR Grind
-https://rs2.seedr.cc/ff_get/5504322597/04-The%20Issue%20and%20PR%20Grind.mp4?st=4G6puO-VH6-BsJ1WmgwplA&e=1726161206
-#EXTINF:-1,05 - Feature Forum Reputation
-https://rs2.seedr.cc/ff_get/5504322598/05-Feature%20Forum%20Reputation.mp4?st=gH3bhIlpMvQk7kjN4hETmQ&e=1726161215
-#EXTINF:-1,07 - Feature Displaying Reputation
-https://rs2.seedr.cc/ff_get/5504318145/07-Feature%20Displaying%20Reputation.mp4?st=EZLHQl-1hk8rCpKHm_Is0w&e=1726161483
-#EXTINF:-1,08 - Feature Reducing Reputation
-https://rs2.seedr.cc/ff_get/5504321014/08-Feature%20Reducing%20Reputation.mp4?st=_k1FGP-L6F0nK71Jc-zqiA&e=1726161471
-#EXTINF:-1,09 - Licensing and Code of Conducts
-https://rs2.seedr.cc/ff_get/5504322600/09-Licensing%20and%20Code%20of%20Conducts.mp4?st=vfhlj3Oi2QiSWGoTWRLyFw&e=1726161226
-#EXTINF:-1,10 - Merging and Tweaking a Large PR
-https://rs2.seedr.cc/ff_get/5504321221/10-Merging%20and%20Tweaking%20a%20Large%20PR.mp4?st=45e04mDKired2F6u9mxbKw&e=1726161445
-#EXTINF:-1,11 - Continuous Integration
-https://rs2.seedr.cc/ff_get/5504322601/11-Continuous%20Integration.mp4?st=jW6dhI7sO9XuHPSYYigWFA&e=1726161249
-#EXTINF:-1,12 - StyleCI
-https://rs2.seedr.cc/ff_get/5504322602/12-StyleCI.mp4?st=Wzncgcd-EjZD6Nvq9yWCHw&e=1726161262
-#EXTINF:-1,13 - Syntax Highlighting PR With Refactoring
-https://rs2.seedr.cc/ff_get/5504322603/13-Syntax%20Highlighting%20PR%20With%20Refactoring.mp4?st=hrqJzuJ8fpSjVd-kb8_lMg&e=1726161286
-#EXTINF:-1,14 - The Importance of Understanding a PR
-https://rs2.seedr.cc/ff_get/5504322604/14-The%20Importance%20of%20Understanding%20a%20PR.mp4?st=kd7H8tOH0JyufefbnH0Qmg&e=1726161295
-#EXTINF:-1,15 - Queues and Worker Bees
-https://rs2.seedr.cc/ff_get/5504322605/15-Queues%20and%20Worker%20Bees.mp4?st=CGIMIjXEOKbxSNPcbajwbA&e=1726161312
-#EXTINF:-1,16 - A Thread Can Be Pinned
-https://rs2.seedr.cc/ff_get/5504322606/16-A%20Thread%20Can%20Be%20Pinned.mp4?st=C-50iwRp3CmTVM0TXplWOQ&e=1726161320
-#EXTINF:-1,17 - Archiving Channels With TDD
-https://rs2.seedr.cc/ff_get/5504322607/17-Archiving%20Channels%20With%20TDD.mp4?st=kEIgEb4W8ysnDMU2fr0_PA&e=1726161329
-#EXTINF:-1,18 - Simpler Queries With Global Scopes
-https://rs2.seedr.cc/ff_get/5504322608/18-Simpler%20Queries%20With%20Global%20Scopes.mp4?st=tqFAvoeXj3XETkt_UBAI7Q&e=1726161340
-#EXTINF:-1,19 - The Test Proves It's a Bug
-https://rs2.seedr.cc/ff_get/5504322609/19-The%20Test%20Proves%20Its%20a%20Bug.mp4?st=8-Wa3oNudsJc3xw58uwCug&e=1726161359
-#EXTINF:-1,20 - Squashing and Merging the New UI
-https://rs2.seedr.cc/ff_get/5504322610/20-Squashing%20and%20Merging%20the%20New%20UI.mp4?st=YfDv3UScpK15TIJZRLXQEQ&e=1726161376
-#EXTINF:-1,21 - Upgrading to Laravel 5.6
-https://rs2.seedr.cc/ff_get/5504322611/21-Upgrading%20to%20Laravel%2056.mp4?st=47noURky7dU9IQlvA8iscQ&e=1726161389
-#EXTINF:-1,22 - Parsing a Work in Progress PR
-https://rs2.seedr.cc/ff_get/5504322612/22-Parsing%20a%20Work%20in%20Progress%20PR.mp4?st=ooohHxSo84BQp_cOx5rKuQ&e=1726161398
-#EXTINF:-1,23 - Calculating Paginated Reply Paths
-https://rs2.seedr.cc/ff_get/5504322613/23-Calculating%20Paginated%20Reply%20Paths.mp4?st=INP_tL8RZZMV14g-Q_YRLQ&e=1726161409
+#EXTINF:-1,01
+https://nw27.seedr.cc/ff_get/5551106508/S01E01.mkv?st=2c1SZi40hpyUXgJsjOD4yQ&e=1732766996
+#EXTINF:-1,02
+https://nw27.seedr.cc/ff_get/5551106215/S01E02.mkv?st=3vfoqq5FbVbRKVrUZjM4nw&e=1732767010
+#EXTINF:-1,03
+https://nw27.seedr.cc/ff_get/5551106648/S01E03.mkv?st=JiyX41vOAbK3cw0JmCqnuw&e=1732767021
+#EXTINF:-1,04
+https://nw27.seedr.cc/ff_get/5551106655/S01E04.mkv?st=l6N4eHy4L_ECzONazacVzQ&e=1732767039
+#EXTINF:-1,05
+https://nw27.seedr.cc/ff_get/5551106033/S01E05.mkv?st=RlOq7t_uXHyDbeWIqFATZg&e=1732767056
+#EXTINF:-1,06
+https://nw27.seedr.cc/ff_get/5551105165/S01E06.mkv?st=Mq3SkM0deQkoE-HYo91V1g&e=1732767074
+#EXTINF:-1,07
+https://nw27.seedr.cc/ff_get/5551105098/S01E07.mkv?st=To3pCPRsatStDtXv86bxjA&e=1732767099
+#EXTINF:-1,08
+https://nw27.seedr.cc/ff_get/5551105511/S01E08.mkv?st=_YxhVFpvJXv_1ktwjtYweA&e=1732767108
